@@ -13,3 +13,4 @@ To make this application, we're going to need to cover the following topics:
   * Javacsript - The programming language needed to add the necessary behavior (or interaction) to the webpage.
   
 ### SCREENSHOOT
+![memory-board-game](https://user-images.githubusercontent.com/38943439/46164491-8adf0a00-c2a7-11e8-9cce-bd54295d9a90.png)
